@@ -1,4 +1,4 @@
-# Dun_Biryani
+# Dum Biryani
 
 This is a Dum Biryani Recipe 
 
